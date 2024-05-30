@@ -116,7 +116,7 @@ body {
 .tab__item {
   position: relative;
   display: inline-block;
-  width: 250px;
+  width: 150px;
   height: 100%;
   list-style: none;
   cursor: pointer;

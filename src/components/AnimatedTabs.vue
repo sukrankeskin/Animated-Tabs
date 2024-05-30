@@ -48,19 +48,37 @@ export default {
     return {
       tabs: [
         {
-          title: "astronaut",
+          title: "One",
           subtitle: "on the mars",
           image:
             "https://images.unsplash.com/photo-1716718405882-5d80d89ea24e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         },
         {
-          title: "astronaut",
+          title: "Two",
           subtitle: "on the earth",
           image:
             "https://images.unsplash.com/photo-1716847214612-e2c2f3771d41?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         },
         {
-          title: "astronaut",
+          title: "Three",
+          subtitle: "on the moon",
+          image:
+            "https://images.unsplash.com/photo-1716724827706-82b216af4f94?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        },
+        {
+          title: "One",
+          subtitle: "on the mars",
+          image:
+            "https://images.unsplash.com/photo-1716718405882-5d80d89ea24e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        },
+        {
+          title: "Two",
+          subtitle: "on the earth",
+          image:
+            "https://images.unsplash.com/photo-1716847214612-e2c2f3771d41?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        },
+        {
+          title: "Three",
           subtitle: "on the moon",
           image:
             "https://images.unsplash.com/photo-1716724827706-82b216af4f94?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
